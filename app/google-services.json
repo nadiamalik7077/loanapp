@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574653455061",
+    "project_id": "loanturbo",
+    "storage_bucket": "loanturbo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574653455061:android:ef143dfcdac30ef858605c",
+        "android_client_info": {
+          "package_name": "com.example.loanturbo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OsTpSw7qpStezvD1nnxC4-fBxUbDm9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
